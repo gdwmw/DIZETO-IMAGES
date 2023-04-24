@@ -3,6 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
+    "npm install": "npm i",
+    "npm update": "npm update",
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
